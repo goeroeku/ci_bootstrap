@@ -1,6 +1,6 @@
 # Project CI + Bootstrap, CRUD Siswa
 
-### desc table siswa
+### desc siswa
 | Column        | Type           			|	PK	|
 | ------------- |:-------------------:|----:|
 | id      			| int, Auto Increment |	v		|
