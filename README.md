@@ -1,5 +1,10 @@
 # Project CI + Bootstrap, CRUD Siswa
 
+## Langkah
+1. Clone repo
+2. Create database dbproject
+3. create table siswa
+
 ### desc siswa
 | Column        | Type           			|	PK	|
 | ------------- |:-------------------:|----:|
